@@ -5,6 +5,16 @@ VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{13D4CCCB-8CBD-48F4-8C79-276987A7714C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C2E011AD-09C8-423B-B664-A8ABE5B9D688}"
+	ProjectSection(SolutionItems) = preProject
+		Bebida.cs = Bebida.cs
+		bebidaAlcoholica.cs = bebidaAlcoholica.cs
+		Cerveza.cs = Cerveza.cs
+		Class1.cs = Class1.cs
+		Program.cs = Program.cs
+		vino.cs = vino.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
